@@ -1,0 +1,76 @@
+{
+    "facts":[
+      {
+      "id": 0,
+      "title": "1-10 MPH over limit",
+      "fact":"3 Points",
+      "clicked":false
+      },
+      {
+      "id": 1,
+      "title": "11-20 MPH over limit",
+      "fact":"4 Points",
+      "clicked":false
+      },
+      {
+      "id": 2,
+      "title": "21-30 MPH over limit",
+      "fact":"6 Points",
+      "clicked":false
+      },
+      {
+      "id": 3,
+      "title": "31-40 MPH over limit",
+      "fact":"8 Points",
+      "clicked":false
+      },
+      {
+      "id": 4,
+      "title": "40+ MPH over limit",
+      "fact":"11 Points",
+      "clicked":false
+      },
+      {
+      "id": 5,
+      "title": "'Move Over' Law",
+      "fact":"3 Points",
+      "clicked":false
+      },
+      {
+      "id": 6,
+      "title": "Red Light/Stop Sign",
+      "fact":"3 Points",
+      "clicked":false
+      },
+      {
+      "id": 7,
+      "title": "Accident Tickets",
+      "fact":"Points Vary",
+      "clicked":false
+      },
+      {
+      "id": 8,
+      "title": "A.U.O (Suspended License)",
+      "fact":"Criminial",
+      "clicked":false
+      },
+      {
+      "id": 9,
+      "title": "DWI",
+      "fact":"Criminial",
+      "clicked":false
+      },
+      {
+      "id": 10,
+      "title": "Suspended Registration",
+      "fact":"Criminial",
+      "clicked":false
+      },
+      {
+      "id": 11,
+      "title": "No Insurance",
+      "fact":"1 Year Revoked License",
+      "clicked":false
+      }
+    ]
+    }
